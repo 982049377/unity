@@ -6,7 +6,7 @@
     <ProductVersion>10.0.20506</ProductVersion>
     <SchemaVersion>2.0</SchemaVersion>
     <RootNamespace></RootNamespace>
-    <ProjectGuid>{FC9411EB-1B12-4154-0219-EEA7CBD09863}</ProjectGuid>
+    <ProjectGuid>{C3DA89E1-70C6-7D6C-993E-C8F831D35880}</ProjectGuid>
     <OutputType>Library</OutputType>
     <AppDesignerFolder>Properties</AppDesignerFolder>
     <AssemblyName>Assembly-CSharp</AssemblyName>
@@ -58,7 +58,9 @@
      <Compile Include="Assets\背包\Script\KanpsackManager.cs" />
      <Compile Include="Assets\背包\Script\Model\ItemModel.cs" />
      <Compile Include="Assets\背包\Script\View\GridPanelUI.cs" />
+     <Compile Include="Assets\背包\Script\View\GridUI.cs" />
      <Compile Include="Assets\背包\Script\View\ItemUI.cs" />
+     <Compile Include="Assets\背包\Script\View\TooltipUI.cs" />
      <Compile Include="Assets\自学\BNUTrans.cs" />
      <Compile Include="Assets\自学\RoatatY.cs" />
  <Reference Include="UnityEngine.UI">
